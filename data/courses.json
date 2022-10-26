@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Data Science",
+        "img": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": "£155.00",
+        "duration": "3 Years",
+        "headline" : "Data science refers to scientific methods, tools, processes, and algorithms to extract information and insights from structured and unstructured data.Nowadays, many organizations are collecting more and more data daily, relying on experts skilled in data science. Data Scientists compile, clean, and present data for businesses and organizations to make informed decisions.",
+        "description" : "Put simply, data science is devoted to the extraction of clean information from raw data to form actionable insights.And there are lots of data out there. By 2025, it’s estimated there will be around 175 zettabytes of data floating around (a zettabyte is a trillion gigabytes). Data has been called the “oil of the 21st century.” So, what do we do with all of this data? How do we make it useful to us? What are its real-world applications? These questions are the domain of data science. Data science is the process of using tools and techniques to draw actionable information out of huge volumes of noisy data. Data science is used for everything from business decision making to sports analytics to insurance risk assessment. The data science field is growing rapidly and revolutionizing so many industries. It has incalculable benefits in business, research and our everyday lives. Your route to work, your most recent search engine query for the nearest coffee shop, your Instagram post about what you ate, and even the health data from your fitness tracker are all important to different data scientists in different ways. Sifting through massive data lakes, looking for connections and patterns, data science is responsible for bringing us new products, delivering breakthrough insights and making our lives more convenient."
+    },
+    {
+        "id": "2",
+        "name": "Cloud Computing ",
+        "img": "https://images.unsplash.com/photo-1600267147646-33cf514b5f3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1147&q=80",
+        "price": "£145.00",
+        "duration": "2 Years",
+        "headline" : "Cloud computing refers to storing and accessing computing services, such as databases, software, servers, networking, and analytics, over the internet. It allows companies to store files and applications on remote servers instead of the computer’s hard drive and then access it via the Internet. To access the data, the users do not have to be present at a specific place, rather they can access it remotely",
+        "description" : "Cloud computing is named as such because the information being accessed is found remotely in the cloud or a virtual space. Companies that provide cloud services enable users to store files and applications on remote servers and then access all the data via the Internet. This means the user is not required to be in a specific place to gain access to it, allowing the user to work remotely.Cloud computing takes all the heavy lifting involved in crunching and processing data away from the device you carry around or sit and work at. It also moves all of that work to huge computer clusters far away in cyberspace. The Internet becomes the cloud, and voilà—your data, work, and applications are available from any device with which you can connect to the Internet, anywhere in the world.Cloud computing can be both public and private. Public cloud services provide their services over the Internet for a fee. Private cloud services, on the other hand, only provide services to a certain number of people. These services are a system of networks that supply hosted services. There is also a hybrid option, which combines elements of both the public and private services."
+    },
+    {
+        "id": "3",
+        "name": "Artificial Intelligence",
+        "img": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": "£175.00",
+        "duration": "3 Years",
+        "headline" : "Artificial Intelligence refers to the intelligence demonstrated by machines. AI professionals focus on building machines that are programmed to think like humans. These machines are capable of doing tasks that require human intelligence.",
+        "description" : "A number of definitions of artificial intelligence (AI) have surfaced over the last few decades. John McCarthy offers the following definition in this 2004 paper (PDF, 106 KB) (link resides outside IBM)): It is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable.However, decades before this definition, the artificial intelligence conversation began with Alan Turing's 1950 work Computing Machinery and Intelligence (PDF, 89.8 KB) (link resides outside of IBM). In this paper, Turing, often referred to as the father of computer science, asks the following question: Can machines think? From there, he offers a test, now famously known as the Turing Test, where a human interrogator would try to distinguish between a computer and human text response. While this test has undergone much scrutiny since its publication, it remains an important part of the history of AI."
+    },
+    {
+        "id": "4",
+        "name": "DevOps ",
+        "img": "https://images.unsplash.com/photo-1561883088-039e53143d73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": "£150.00",
+        "duration": "6 months",
+        "headline" : "DevOps is a set of practices and tools that combine software development and IT operations to shorten the systems development life cycle. In simple terms, it aims to make building, testing, and releasing software-faster and more reliable. ",
+        "description" : "A DevOps team includes developers and IT operations working collaboratively throughout the product lifecycle, in order to increase the speed and quality of software deployment. It’s a new way of working, a cultural shift, that has significant implications for teams and the organizations they work for.  Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, these two teams merge into a single team where the engineers work across the entire application lifecycle — from development and test to deployment and operations — and have a range of multidisciplinary skills. DevOps teams use tools to automate and accelerate processes, which helps to increase reliability. A DevOps toolchain helps teams tackle important DevOps fundamentals including continuous integration, continuous delivery, automation, and collaboration.DevOps values are sometimes applied to teams other than development. When security teams adopt a DevOps approach, security is an active and integrated part of the development process. This is called DevSecOps."
+    },
+    {
+        "id": "5",
+        "name": "Blockchain ",
+        "img": "https://images.unsplash.com/photo-1605792657660-596af9009e82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1102&q=80",
+        "price": "£165.00",
+        "duration": "1 Year",
+        "headline" : "Also referred to as Distributed Ledger Technology (DLT), Blockchain is a digital ledger of transactions duplicated and distributed thousands of times across a network of computer systems on the blockchain. It is the process of recording information in a manner that makes it difficult or impossible to change or hack the system.",
+        "description" : "Blockchain defined: Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.       Why blockchain is important: Business runs on information. The faster it’s received and the more accurate it is, the better. Blockchain is ideal for delivering that information because it provides immediate, shared and completely transparent information stored on an immutable ledger that can be accessed only by permissioned network members. A blockchain network can track orders, payments, accounts, production and much more. And because members share a single view of the truth, you can see all details of a transaction end to end, giving you greater confidence, as well as new efficiencies and opportunities."
+    },
+    {
+        "id": "6",
+        "name": "RPA (Robotic Process Automation)",
+        "img": "",
+        "price": "£185.00",
+        "duration": "2 Years",
+        "headline" : "Robotic Process Automation refers to the application of technology governed by businesses to perform automating. Simply put, RPA is the process of creating a software robot to automate any repeatable business process.",
+        "description" : ""
+    },
+    {
+        "id": "7",
+        "name": "Augmented Reality (AR) and Virtual Reality (VR)",
+        "img": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+        "price": "£155.00",
+        "duration": "1 Years",
+        "headline" : "Augmented reality (AR) and Virtual Reality (VR) are the technologies that bridge the real and virtual worlds. These technologies enable users to view information and content visually, in the same way you take in the world. Many industries, like healthcare, travel, aviation, and automotive, are developing augmented reality solutions in training applications.",
+        "description" : "VR headsets completely take over your vision to give you the impression that you're somewhere else. The HTC Vive Cosmos, the PlayStation VR, the Oculus Quest, the Valve Index, and other headsets are opaque, blocking out your surroundings when you wear them. If you put them on when they're turned off, you might think you're blindfolded.Whereas virtual reality replaces your vision, augmented reality adds to it. AR devices, such as the Microsoft HoloLens and various enterprise-level smart glasses,  are transparent, letting you see everything in front of you as if you are wearing a weak pair of sunglasses.The technology is designed for free movement, while projecting images over whatever you look at. The concept extends to smartphones with AR apps and games, such as Pokemon Go, which use your phone's camera to track your surroundings and overlay additional information on top of it, on the screen."
+    },
+    {
+        "id": "8",
+        "name": "Cybersecurity",
+        "img": "https://images.unsplash.com/photo-1618060932014-4deda4932554?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": "£135.00",
+        "duration": "1 Year",
+        "headline" : "Cyber security is another one of the most in-demand tech skills. Cybersecurity deals with safeguarding computer systems and networks from cyber-attacks that intend to access, modify, or destroy sensitive or confidential information.",
+        "description" : "Cybersecurity is a business problem that has been presented as such in boardrooms for years, and yet accountability still lies primarily with IT leaders.In the 2022 Gartner Board of Directors Survey, 88% of board members classified cybersecurity as a business risk; just 12% called it a technology risk. Still, a 2021 survey showed that the CIO, the chief information security officer (CISO) or their equivalent were held accountable for cybersecurity at 85% of organizations.  Organizations have become far more vulnerable to cyberthreats because digital information and technology are now so heavily integrated into day-to-day work. But the attacks themselves, which target both information and critical infrastructure, are also becoming far more sophisticated. Cyber-risk incidents can have operational, financial, reputational and strategic consequences for an organization, all of which come at significant costs. This has made existing measures less effective, and it means that most organizations need to up their cybersecurity game. "
+    }
+]
