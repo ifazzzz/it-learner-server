@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "title": "Data Science"
+    },
+    {
+        "id": "2",
+        "title": "Cloud Computing"
+    },
+    {
+        "id": "3",
+        "title": "Artificial Intelligence"
+    },
+    {
+        "id": "4",
+        "title": "DevOps"
+    },
+    {
+        "id": "5",
+        "title": "Blockchain"
+    },
+    {
+        "id": "6",
+        "title": "RPA (Robotic Process Automation)"
+    },
+    {
+        "id": "7",
+        "title": "Augmented Reality (AR) and Virtual Reality (VR)"
+    },
+    {
+        "id": "8",
+        "title": "Cybersecurity"
+    }
+]
