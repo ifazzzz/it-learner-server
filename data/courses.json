@@ -47,7 +47,7 @@
     {
         "id": "6",
         "name": "RPA (Robotic Process Automation)",
-        "img": "",
+        "img": "https://images.unsplash.com/photo-1518314916381-77a37c2a49ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
         "price": "£185.00",
         "duration": "2 Years",
         "headline" : "Robotic Process Automation refers to the application of technology governed by businesses to perform automating. Simply put, RPA is the process of creating a software robot to automate any repeatable business process.",
