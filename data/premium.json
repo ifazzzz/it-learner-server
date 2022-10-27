@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "Data Science",       
+        "price": "£155.00",
+        "duration": "3 Years",
+        "headline" : "Data science refers to scientific methods, tools, processes, and algorithms to extract information and insights from structured and unstructured data.Nowadays, many organizations are collecting more and more data daily, relying on experts skilled in data science. Data Scientists compile, clean, and present data for businesses and organizations to make informed decisions."
+        
+    },
+    {
+        "id": "2",
+        "name": "Cloud Computing ",       
+        "price": "£145.00",
+        "duration": "2 Years",
+        "headline" : "Cloud computing refers to storing and accessing computing services, such as databases, software, servers, networking, and analytics, over the internet. It allows companies to store files and applications on remote servers instead of the computer’s hard drive and then access it via the Internet. To access the data, the users do not have to be present at a specific place, rather they can access it remotely"
+        
+    },
+    {
+        "id": "3",
+        "name": "Artificial Intelligence",       
+        "price": "£175.00",
+        "duration": "3 Years",
+        "headline" : "Artificial Intelligence refers to the intelligence demonstrated by machines. AI professionals focus on building machines that are programmed to think like humans. These machines are capable of doing tasks that require human intelligence."
+        
+    },
+    {
+        "id": "4",
+        "name": "DevOps ",      
+        "price": "£150.00",
+        "duration": "6 months",
+        "headline" : "DevOps is a set of practices and tools that combine software development and IT operations to shorten the systems development life cycle. In simple terms, it aims to make building, testing, and releasing software-faster and more reliable. "
+       
+    },
+    {
+        "id": "5",
+        "name": "Blockchain ",     
+        "price": "£165.00",
+        "duration": "1 Year",
+        "headline" : "Also referred to as Distributed Ledger Technology (DLT), Blockchain is a digital ledger of transactions duplicated and distributed thousands of times across a network of computer systems on the blockchain. It is the process of recording information in a manner that makes it difficult or impossible to change or hack the system."
+        
+    },
+    {
+        "id": "6",
+        "name": "RPA (Robotic Process Automation)",     
+        "price": "£185.00",
+        "duration": "2 Years",
+        "headline" : "Robotic Process Automation refers to the application of technology governed by businesses to perform automating. Simply put, RPA is the process of creating a software robot to automate any repeatable business process."
+        
+    },
+    {
+        "id": "7",
+        "name": "Augmented Reality (AR) and Virtual Reality (VR)",      
+        "price": "£155.00",
+        "duration": "1 Years",
+        "headline" : "Augmented reality (AR) and Virtual Reality (VR) are the technologies that bridge the real and virtual worlds. These technologies enable users to view information and content visually, in the same way you take in the world. Many industries, like healthcare, travel, aviation, and automotive, are developing augmented reality solutions in training applications."
+        
+    },
+    {
+        "id": "8",
+        "name": "Cybersecurity",      
+        "price": "£135.00",
+        "duration": "1 Year",
+        "headline" : "Cyber security is another one of the most in-demand tech skills. Cybersecurity deals with safeguarding computer systems and networks from cyber-attacks that intend to access, modify, or destroy sensitive or confidential information."
+        
+    }
+]

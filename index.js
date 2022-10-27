@@ -8,6 +8,7 @@ app.use(cors());
 
 const courses = require('./data/courses.json');
 const category = require('./data/category.json');
+const premium = require('./data/premium.json');
 
 app.get('/', (req, res) => {
     res.send('srever is running')
@@ -26,6 +27,12 @@ app.get('/courses/:id', (req, res) => {
 app.get('/category', (req, res) => {
     res.send(category);
 });
+
+app.get('/premium/:id', (req, res) => {
+    const id = req.params.id;
+    const selected = premium.find(c => c.id === id);
+    res.send(selected);
+})
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
