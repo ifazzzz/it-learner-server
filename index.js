@@ -11,13 +11,15 @@ const category = require('./data/category.json');
 const premium = require('./data/premium.json');
 
 app.get('/', (req, res) => {
-    res.send('srever is running')
+    res.send('server is running')
 });
 
+// course content api
 app.get('/courses', (req, res) => {
     res.send(courses);
 });
 
+// course details api
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourse = courses.find(c => c.id === id);
@@ -28,6 +30,7 @@ app.get('/category', (req, res) => {
     res.send(category);
 });
 
+// api for premium accesss
 app.get('/premium/:id', (req, res) => {
     const id = req.params.id;
     const selected = premium.find(c => c.id === id);
